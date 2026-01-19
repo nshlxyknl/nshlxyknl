@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nshlxyknl&label=Profile%20views&color=0e75b6&style=flat" alt="nshlxyknl" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kshxjsydj" target="blank"><img src="https://img.shields.io/twitter/follow/kshxjsydj?logo=twitter&style=for-the-badge" alt="kshxjsydj" /></a> </p>
 
 - 📫 How to reach me **khanalnn007@gmail.com**
 
